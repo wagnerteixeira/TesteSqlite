@@ -1,0 +1,6 @@
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.dll.config
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.pdb
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\obj\Debug\TesteSqlite.Entity.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\obj\Debug\TesteSqlite.Entity.pdb
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\obj\Debug\TesteSqlite.Entity.csprojResolveAssemblyReference.cache

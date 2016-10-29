@@ -1,0 +1,9 @@
+D:\Cartsys\CARTSYS_2016\branches\backup\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.pdb
+D:\Cartsys\CARTSYS_2016\branches\backup\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.pdb
+D:\Cartsys\CARTSYS_2016\branches\backup\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.csprojResolveAssemblyReference.cache
+D:\Cartsys\TesteSqlite\TesteSqlite\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.dll
+D:\Cartsys\TesteSqlite\TesteSqlite\System.Linq.Dynamic\bin\Debug\System.Linq.Dynamic.pdb
+D:\Cartsys\TesteSqlite\TesteSqlite\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.dll
+D:\Cartsys\TesteSqlite\TesteSqlite\System.Linq.Dynamic\obj\Debug\System.Linq.Dynamic.pdb

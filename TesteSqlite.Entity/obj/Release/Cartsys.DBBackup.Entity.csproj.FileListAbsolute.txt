@@ -1,0 +1,5 @@
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Release\TesteSqlite.Entity.dll.config
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Release\TesteSqlite.Entity.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\bin\Release\TesteSqlite.Entity.pdb
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\obj\Release\TesteSqlite.Entity.dll
+D:\Cartsys\CARTSYS_2016\branches\backup\TesteSqlite\TesteSqlite.Entity\obj\Release\TesteSqlite.Entity.pdb

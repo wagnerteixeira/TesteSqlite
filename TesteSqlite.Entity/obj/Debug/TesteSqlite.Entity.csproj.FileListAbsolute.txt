@@ -1,0 +1,5 @@
+D:\Cartsys\TesteSqlite\TesteSqlite\TesteSqlite.Entity\obj\Debug\TesteSqlite.Entity.dll
+D:\Cartsys\TesteSqlite\TesteSqlite\TesteSqlite.Entity\obj\Debug\TesteSqlite.Entity.pdb
+D:\Cartsys\TesteSqlite\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.dll.config
+D:\Cartsys\TesteSqlite\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.dll
+D:\Cartsys\TesteSqlite\TesteSqlite\TesteSqlite.Entity\bin\Debug\TesteSqlite.Entity.pdb
